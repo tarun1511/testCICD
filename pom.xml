@@ -75,7 +75,7 @@
 	</dependencyManagement>
 
 	<build>
-		<finalName>tkj-service</finalName>
+		<finalName>tkj-product</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
